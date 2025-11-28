@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": ".NET MAUI",
+            "type": "maui",
+            "request": "launch",
+            "preLaunchTask": "maui: Build"
+        },
+        {
+            "name": "C#: AnimalMatchingGame",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\AnimalMatchingGame\\AnimalMatchingGame.csproj",
+            "launchConfigurationId": "vscode-maui"
+        }
+    ]
+}
